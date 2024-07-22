@@ -21,7 +21,7 @@
 title: Jin's Blog
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there, this is where i pen my thoughts down
+  Hi there, this is where i pen my thoughts down. I primarily use this to help me document my challenges in both my career and hobbies. They will typically be themed around: Software Engineering, Home Automation, 3D printing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jin.ministry-of.tech" # the base hostname & protocol for your site, e.g. http://example.com
 
