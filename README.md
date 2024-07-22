@@ -1,1 +1,1 @@
-Blog site: jin.ministry-of.tech
+Blog site: https://jin.ministry-of.tech
