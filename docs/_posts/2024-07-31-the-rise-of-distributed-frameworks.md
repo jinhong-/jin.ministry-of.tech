@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The rise of Distributed Frameworks
+title:  The Rise of Distributed Frameworks
 date:   2024-07-31 22:22:00 +0800
 categories: [Software Engineering, Distributed Systems]
 comments: true
