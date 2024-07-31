@@ -3,6 +3,7 @@ layout: post
 title:  I recently built a Voron 2.4r2
 date:   2024-07-31 00:14:00 +0800
 categories: [3D Printing]
+comments: true
 ---
 I was looking for a larger format 3D printer and decided to bite the bullet on getting a voron on the basis that it is a lot more moddable (vs a bambulab X) for example). The key though is that it does not come assembled so you would have to do everything from scratch, and boy was it a journey to build given the limited time and often times frustrations with broken pieces and generally things that are not well documented as I have bought a kit that did not necessarily use all original parts. I also had to order 3D printed parts since I did not really have an enclosed printer to print ABS parts, and honestly ABS really stinks up the room quite badly
 

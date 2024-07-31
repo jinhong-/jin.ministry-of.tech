@@ -3,6 +3,7 @@ layout: post
 title:  The rise of Distributed Frameworks
 date:   2024-07-31 22:22:00 +0800
 categories: [Software Engineering, Distributed Systems]
+comments: true
 ---
 
 I have always had an obsession around frameworks. Primarily driven by my experiences in both an engineer and an engineering leader with many challenges faced and mistakes made. Hopefully this does not come as a surprise to many, since all we have been working on top of, especially in product and/or application engineering, are simply frameworks. If you are a Java developer, for example, you are working on top of the Java SDK, which in fact is a framework that is comprised of thousands of different functions and tools to help you in different areas. Hopefully no one doing application engineering has to write in assembly anymore
