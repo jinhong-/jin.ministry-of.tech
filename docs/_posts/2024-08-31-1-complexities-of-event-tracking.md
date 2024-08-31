@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Complexities of Event Tracking
-date: 2024-08-31 15:30:00 +0800
+date: 2024-08-31 15:00:00 +0800
 categories: []
 ---
 
