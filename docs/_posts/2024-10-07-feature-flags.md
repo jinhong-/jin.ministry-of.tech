@@ -25,9 +25,8 @@ Some tips on managing feature flags
 3. I have found that feature flags are best implemented on the frontend where you have most information about the user. Generally speaking avoid having feature flags on the backend as they have lesser information about the user to work with to toggle features for. If you are experimenting with a new version of a feature, you are better off having an API versioning strategy that creates a new endpoint for your new version of the feature, then have your frontend consume feature flags to switch between both endpoints instead
 
 Lastly, what platforms for feature flags are out there? Tons. What I would say is that you shoud look at your needs to decide what you want. Personally i prefer simpler, transparent costs and a super feature rich platform as the nature of the products I work on rely heavily on toggling it for specific environments, users, tenant, which some platforms do not offer the ability to have custom contexts to apply flags to. Also some platforms do offer the ability to detect "dead" flags, which can ease out on your flag removal strategy, which i mentioned is necessary as it is not meant for long time use. Here are some below that I have seen, and used
-
-PostHog
-ConfigCat
-Firebase Remote Config
-LaunchDarkly
-Optimizely
+- PostHog
+- ConfigCat
+- Firebase Remote Config
+- LaunchDarkly
+- Optimizely
