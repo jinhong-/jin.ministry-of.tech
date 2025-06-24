@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Help, Someone's Hogging the EV Charging Lot"
-date:   2025-06-25 12:30:00 +0800
+date:   2025-06-25 00:30:00 +0800
 categories: []
 ---
 
