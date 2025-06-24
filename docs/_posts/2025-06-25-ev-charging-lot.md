@@ -58,4 +58,4 @@ This system:
 
 The beauty is in its simplicity — we’re not reinventing the charger. We're just making sure people use it responsibly.
 
-PS: I don't claim to be an expert in any of these. This is just a simple thought experiment on how this challenge can be solved. The ideas are my own, though i cannot claim that this does not already exist, and isn't already patented/protected somehow. And of course I used ChatGPT to brainstorm and to also help me write this
+PS: I don't claim to be an expert in any of these. This is just a simple thought experiment on how this challenge can be solved. Ideas are my own, though i cannot claim that this does not already exist, and isn't already patented/protected somehow. And of course I used ChatGPT to brainstorm and to also help me write this
